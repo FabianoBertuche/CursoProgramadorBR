@@ -1,0 +1,21 @@
+#principal{
+  color: yellow;
+  background-image:url(fundos/01.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+
+}
+
+#titulo{
+  color: brown;
+  background-color: yellow;
+}
+
+.texto_verde{
+  color: green;
+}
+
+#teste_cor{
+  color:rgb(0,100,200)
+}
