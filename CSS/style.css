@@ -19,3 +19,36 @@
 #teste_cor{
   color:rgb(0,100,200)
 }
+
+/*
+#cm{
+  background-color: blue;
+  width:1cm ;
+  height:2cm ;
+}
+*/
+#base{
+  height: 10pix;
+  background-color: red;
+}
+#conteiner{
+  background-color: darkmagenta;
+  color: aliceblue;
+/*  margin-top: 5px;
+  margin-left: 5px; */
+  padding-left: 10px;
+ 
+
+}
+#conteudo{
+  background-color: chartreuse;
+}
+
+#borda{
+  border-width: 5px;
+  border-style: solid;
+  border-color: brown;
+  border-radius: 15px;
+
+  padding-left: 10px;
+}

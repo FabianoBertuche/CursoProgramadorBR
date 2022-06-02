@@ -1,0 +1,39 @@
+body{ 
+  margin: 0px;
+  padding: 0px;  
+}
+.conteiner{
+  background-color: red;
+  padding: 5px;
+  border: 2px solid blue;
+  margin: 15px;
+}
+
+.conteudo{
+  background-color: #ddd;
+  border: 5px solid green;
+  padding: 5px;
+}
+
+.quadrado{
+  background-color: blueviolet;
+  width: 100px;
+  height: 100px;
+  border: 10px  solid yellow;
+}
+
+.quadrado2{
+  background-color: blueviolet;
+  width: 100px;
+  height: 100px;
+ }
+
+ p{
+   color:red;
+   text-align: justify;
+   text-transform: uppercase;
+   text-indent: 35px;
+   text-decoration: underline ;
+   letter-spacing: 1.5px;
+   line-height: 1;
+ }
