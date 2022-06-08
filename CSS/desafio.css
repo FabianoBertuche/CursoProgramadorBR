@@ -1,0 +1,33 @@
+body{
+   background-image: url("./img/backgorund.png");
+   background-repeat: no-repeat;
+   background-color: black;
+
+}
+
+#nome{
+  padding: 10px;
+}
+
+ol{
+    margin: 30px;
+}
+
+#insta{
+  padding: 10px;
+  list-style-image: url('./img/Insta.png');
+  font-size: 34px;
+  
+}
+
+#twitter{
+  padding: 10px;
+  list-style-image: url('./img/Twitter.png');
+  font-size: 34px;
+}
+
+#youtube{
+  padding: 10px;
+  list-style-image: url('./img/Youtube.png');
+  font-size: 34px;
+}
